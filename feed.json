@@ -1,0 +1,34 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Le Petit Chris Lott",
+	"icon": "https://micro.blog/chrislottorg/avatar.jpg",
+	"home_page_url": "https://micro.chrislott.org/",
+	"feed_url": "https://micro.chrislott.org/feed.json",
+	"items": [
+		
+			{
+				"id": "http://chrislott.micro.blog/2023/06/25/second-github-test.html",
+				
+				"content_html": "<p>Second github test</p>\n",
+				"content_text": "Second github test\n",
+				"date_published": "2023-06-25T17:46:11-07:00",
+				"url": "https://micro.chrislott.org/2023/06/25/second-github-test.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/25/githubtest.html",
+				
+				"content_html": "<p>GithubTest</p>\n",
+				"content_text": "GithubTest\n",
+				"date_published": "2023-06-25T17:42:35-07:00",
+				"url": "https://micro.chrislott.org/2023/06/25/githubtest.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/25/lead-word-processor.html",
+				"title": "L.E.A.D. 2.5 Word Processor",
+				"content_html": "<p><!-- raw HTML omitted --></p>\n<p>A flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case&hellip;and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, <em>and</em> I may have brought someone into the pencil fold.</p>\n<p>Apologies for the shadows. It&rsquo;s hard to get a photo through the glass!</p>\n",
+				"content_text": "\n<img src=\"uploads/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt='A wall art piece displaying a yellow wooden pencil titled The L.E.A.D. 2.5 Word Processor \nLight, Economical, and Dependable. The piece goes on to note: Featuring. Fine or large print (manual control), Letters, words, or phrases can be deleted with a flick of the wrist, Polished wooden cabinet, Unlimited memory capacity depending on the aptitude of the user. Note: model shown comes equipped with \"Cylindrical Malfunction Adjuster.\" Then there are four other models: One for those who make no mistakes (a pencil sharpened on both ends). One for those who make only mistakes (a pencil with an eraser on both ends). One for those who do very little (a golf-pencil sized pencil). And one for those who do absolutely nothing (a pencil with no erase, unsharpened on both ends)'>\n\nA flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case...and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, *and* I may have brought someone into the pencil fold.\n\nApologies for the shadows. It's hard to get a photo through the glass!\n",
+				"date_published": "2023-06-25T16:14:03-07:00",
+				"url": "https://micro.chrislott.org/2023/06/25/lead-word-processor.html"
+			}
+	]
+}
