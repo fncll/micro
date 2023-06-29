@@ -7,12 +7,84 @@
 	"items": [
 		
 			{
-				"id": "http://chrislott.micro.blog/2023/06/25/second-github-test.html",
+				"id": "http://chrislott.micro.blog/2023/06/29/im-quitting-reddit.html",
 				
-				"content_html": "<p>Second github test</p>\n",
-				"content_text": "Second github test\n",
-				"date_published": "2023-06-25T17:46:11-07:00",
-				"url": "https://micro.chrislott.org/2023/06/25/second-github-test.html"
+				"content_html": "<p>I&rsquo;m quitting Reddit for much the same reason I quit Twitter: both actively disdain and mistreat the users whose community and effort generates the profits motivating the ill-treatment. It&rsquo;s a sick cycle that no amount of community is worth supporting. I don&rsquo;t hope to change them. It&rsquo;s for me.</p>\n",
+				"content_text": "I'm quitting Reddit for much the same reason I quit Twitter: both actively disdain and mistreat the users whose community and effort generates the profits motivating the ill-treatment. It's a sick cycle that no amount of community is worth supporting. I don't hope to change them. It's for me.\n",
+				"date_published": "2023-06-29T15:02:35-07:00",
+				"url": "https://micro.chrislott.org/2023/06/29/im-quitting-reddit.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/29/a-pilot-legance.html",
+				
+				"content_html": "<p>A Pilot Legance (not a typo) fountain pen I rediscovered in my obscene stash of pens. And a pro photo of the same make and model.  I believe these were impressions of the <a href=\"https://www.gouletpens.com/collections/pilot-custom-heritage-se-fountain-pens\">Pilot Custom Heritage SE</a>, but no longer made. Fantastic writer! ✒️</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "A Pilot Legance (not a typo) fountain pen I rediscovered in my obscene stash of pens. And a pro photo of the same make and model.  I believe these were impressions of the [Pilot Custom Heritage SE](https://www.gouletpens.com/collections/pilot-custom-heritage-se-fountain-pens), but no longer made. Fantastic writer! ✒️\n\n<img src=\"uploads/2023/img-0176.jpg\" width=\"600\" height=\"403\" alt=\"\">\n\n<img src=\"uploads/2023/img-0177.jpg\" width=\"600\" height=\"505\" alt=\"\">\n",
+				"date_published": "2023-06-29T08:37:53-07:00",
+				"url": "https://micro.chrislott.org/2023/06/29/a-pilot-legance.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/28/this-is-the.html",
+				
+				"content_html": "<p>This is <a href=\"https://www.manton.org/2023/06/27/lets-welcome-meta.html\">the right* take on Meta’s imminent entry into the Fediverse</a>.</p>\n<p>*Where “right” means I totally agree.</p>\n",
+				"content_text": "This is [the right* take on Meta’s imminent entry into the Fediverse](https://www.manton.org/2023/06/27/lets-welcome-meta.html).\r\n\r\n*Where “right” means I totally agree.\n",
+				"date_published": "2023-06-28T08:28:14-07:00",
+				"url": "https://micro.chrislott.org/2023/06/28/this-is-the.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/27/paradise-lost-is.html",
+				
+				"content_html": "<p><em>Paradise Lost</em> is astonishing. I wasn&rsquo;t ready for it in grad school, and it took most of the first book to get comfortable with the syntax, but&hellip;wow! There are some savage, sardonic moments, and more puns than I expected. 📚</p>\n",
+				"content_text": " _Paradise Lost_ is astonishing. I wasn't ready for it in grad school, and it took most of the first book to get comfortable with the syntax, but...wow! There are some savage, sardonic moments, and more puns than I expected. 📚\n",
+				"date_published": "2023-06-27T11:18:29-07:00",
+				"url": "https://micro.chrislott.org/2023/06/27/paradise-lost-is.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/cool-link-the.html",
+				"title": "🔗 Cool link: the html review",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"linklog-url\"><a href=\"https://thehtml.review/?test=1\">https://thehtml.review/</a></p><p class=\"linklog-description\">\"The html review is an annual journal of literature made to exist on the web.\"</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
+				"date_published": "2023-06-26T16:47:51-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/cool-link-the.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/cool-link-crossfire.html",
+				"title": "🔗 Cool link: CrossFire crossword creator",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"linklog-url\"><a href=\"https://beekeeperlabs.com/crossfire/index.html\">https://beekeeperlabs.com/crossfire/index.html</a></p><p class=\"linklog-description\">Cross-platform crossword creator</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
+				"date_published": "2023-06-26T16:35:58-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/cool-link-crossfire.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/cool-link-phil.html",
+				"title": "🔗 Cool link: Phil",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"linklog-url\"><a href=\"http://www.keiranking.com/apps/phil/\">http://www.keiranking.com/apps/phil/</a></p><p class=\"linklog-description\">a free crossword maker</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
+				"date_published": "2023-06-26T16:35:57-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/cool-link-phil.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/noted-track-its.html",
+				"title": "🎵 Noted: It's a Shame About Ray - Remastered",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/5fDCyoIY7zPEV5jn8DaCDb\"><img class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b27345251c9ca2c4296acf0e8980\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/5fDCyoIY7zPEV5jn8DaCDb\">It's a Shame About Ray - Remastered</a></span><br><span class=\"spot-artist\">The Lemonheads</span><br>Found on <span class=\"spot-album\">It's a Shame About Ray (Expanded Edition)</span></p>\n",
+				"date_published": "2023-06-26T15:38:55-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/noted-track-its.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/seeking-the-death.html",
+				
+				"content_html": "<p>Seeking the death penalty for the suspected murderer of the Idaho college students isn&rsquo;t a win. The death penalty is a barbarism that shouldn&rsquo;t be exacted on anyone. Period.</p>\n",
+				"content_text": "Seeking the death penalty for the suspected murderer of the Idaho college students isn't a win. The death penalty is a barbarism that shouldn't be exacted on anyone. Period.\n",
+				"date_published": "2023-06-26T15:04:03-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/seeking-the-death.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/im-still-amazed.html",
+				
+				"content_html": "<p>I’m still amazed when I remember (or rediscover) how seriously some folks take astrology.</p>\n",
+				"content_text": "I’m still amazed when I remember (or rediscover) how seriously some folks take astrology.\n",
+				"date_published": "2023-06-26T07:54:28-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/im-still-amazed.html"
 			},
 			{
 				"id": "http://chrislott.micro.blog/2023/06/25/githubtest.html",
@@ -26,7 +98,7 @@
 				"id": "http://chrislott.micro.blog/2023/06/25/lead-word-processor.html",
 				"title": "L.E.A.D. 2.5 Word Processor",
 				"content_html": "<p><!-- raw HTML omitted --></p>\n<p>A flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case&hellip;and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, <em>and</em> I may have brought someone into the pencil fold.</p>\n<p>Apologies for the shadows. It&rsquo;s hard to get a photo through the glass!</p>\n",
-				"content_text": "\n<img src=\"uploads/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt='A wall art piece displaying a yellow wooden pencil titled The L.E.A.D. 2.5 Word Processor \nLight, Economical, and Dependable. The piece goes on to note: Featuring. Fine or large print (manual control), Letters, words, or phrases can be deleted with a flick of the wrist, Polished wooden cabinet, Unlimited memory capacity depending on the aptitude of the user. Note: model shown comes equipped with \"Cylindrical Malfunction Adjuster.\" Then there are four other models: One for those who make no mistakes (a pencil sharpened on both ends). One for those who make only mistakes (a pencil with an eraser on both ends). One for those who do very little (a golf-pencil sized pencil). And one for those who do absolutely nothing (a pencil with no erase, unsharpened on both ends)'>\n\nA flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case...and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, *and* I may have brought someone into the pencil fold.\n\nApologies for the shadows. It's hard to get a photo through the glass!\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt='A wall art piece displaying a yellow wooden pencil titled The L.E.A.D. 2.5 Word Processor \nLight, Economical, and Dependable. The piece goes on to note: Featuring. Fine or large print (manual control), Letters, words, or phrases can be deleted with a flick of the wrist, Polished wooden cabinet, Unlimited memory capacity depending on the aptitude of the user. Note: model shown comes equipped with \"Cylindrical Malfunction Adjuster.\" Then there are four other models: One for those who make no mistakes (a pencil sharpened on both ends). One for those who make only mistakes (a pencil with an eraser on both ends). One for those who do very little (a golf-pencil sized pencil). And one for those who do absolutely nothing (a pencil with no erase, unsharpened on both ends)'>\n\nA flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case...and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, *and* I may have brought someone into the pencil fold.\n\nApologies for the shadows. It's hard to get a photo through the glass!\n",
 				"date_published": "2023-06-25T16:14:03-07:00",
 				"url": "https://micro.chrislott.org/2023/06/25/lead-word-processor.html"
 			}
