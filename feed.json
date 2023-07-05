@@ -1,11 +1,203 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Le Petit Chris Lott",
+	"title": "Un Petit Chris Lott",
 	"icon": "https://micro.blog/chrislottorg/avatar.jpg",
 	"home_page_url": "https://micro.chrislott.org/",
 	"feed_url": "https://micro.chrislott.org/feed.json",
 	"items": [
 		
+			{
+				"id": "http://chrislott.micro.blog/2023/07/05/in-theory-i.html",
+				
+				"content_html": "<p>In theory I understand those who protest their words getting sucked into the LLM maw. In reality (emotionally and practically), I have no sympathy for the essentially-copyright-maximalist argument. If you don&rsquo;t want your work reused by minute individuals or behemoths alike, don&rsquo;t put it in the open.</p>\n",
+				"content_text": "In theory I understand those who protest their words getting sucked into the LLM maw. In reality (emotionally and practically), I have no sympathy for the essentially-copyright-maximalist argument. If you don't want your work reused by minute individuals or behemoths alike, don't put it in the open.\n",
+				"date_published": "2023-07-05T14:40:43-07:00",
+				"url": "https://micro.chrislott.org/2023/07/05/in-theory-i.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/04/twitter-will-lurch.html",
+				
+				"content_html": "<p>Twitter will lurch on for a while. Reddit even longer. My future is retrograde&mdash;forums, RSS, newsletters&mdash;and progressive&mdash;community supported, federated, often decidedly topical platforms. These (still) work when we reject would-be-global broadcasting and parasocial desires.</p>\n",
+				"content_text": "Twitter will lurch on for a while. Reddit even longer. My future is retrograde---forums, RSS, newsletters---and progressive---community supported, federated, often decidedly topical platforms. These (still) work when we reject would-be-global broadcasting and parasocial desires.\n",
+				"date_published": "2023-07-04T12:47:00-07:00",
+				"url": "https://micro.chrislott.org/2023/07/04/twitter-will-lurch.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/04/cool-link-board.html",
+				"title": "🔗 Cool link: Board Game Arena",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Freemium, but worth the price for access to so many great games, such as Splendor, Catan, Azul, Ticket to Ride, Carcassonne and many more.<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->&hellip;more links on Pinboard→<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<p class=\"linklog-url\"><a href=\"https://boardgamearena.com/welcome\">https://boardgamearena.com/welcome</a></p><p class=\"linklog-description\">\"...the largest boardgame table in the world. No download necessary - play directly from your web browser. With your friends and thousands of players from the whole world.\"\n\nFreemium, but worth the price for access to so many great games, such as Splendor, Catan, Azul, Ticket to Ride, Carcassonne and many more.</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
+				"date_published": "2023-07-04T11:03:06-07:00",
+				"url": "https://micro.chrislott.org/2023/07/04/cool-link-board.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/04/todays-tea-gabpu.html",
+				
+				"content_html": "<p>Today&rsquo;s tea: 2019 Gabpu Maocha from Liquid Proust. Tastes of chocolate and fruit.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's tea: 2019 Gabpu Maocha from Liquid Proust. Tastes of chocolate and fruit.\n\n<img src=\"uploads/2023/img-0227.jpeg\" width=\"600\" height=\"600\" alt=\"A partially open gaiwan revealing leaves from the 2019 Gabpu Maocha tea package it is sitting on.\">\n",
+				"date_published": "2023-07-04T10:08:12-07:00",
+				"url": "https://micro.chrislott.org/2023/07/04/todays-tea-gabpu.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/04/patriotism-baffles-me.html",
+				
+				"content_html": "<p>Patriotism baffles me. I don&rsquo;t get it (nor do I begrudge it). It just doesn&rsquo;t compute. There are good things and bad things, trending toward the latter. There are other countries I&rsquo;d happily, perhaps more happily, live in, and many I would not. It&rsquo;s just not in my genes, I guess.</p>\n",
+				"content_text": "Patriotism baffles me. I don't get it (nor do I begrudge it). It just doesn't compute. There are good things and bad things, trending toward the latter. There are other countries I'd happily, perhaps more happily, live in, and many I would not. It's just not in my genes, I guess.\n",
+				"date_published": "2023-07-04T10:01:27-07:00",
+				"url": "https://micro.chrislott.org/2023/07/04/patriotism-baffles-me.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/04/cool-link-economic.html",
+				"title": "🔗 Cool link: Economic inequality cannot be explained by individual bad choices, study finds",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"linklog-url\"><a href=\"https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html\">https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html</a></p><p class=\"linklog-description\">Big surprise.</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
+				"date_published": "2023-07-04T09:50:41-07:00",
+				"url": "https://micro.chrislott.org/2023/07/04/cool-link-economic.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/04/wilson-creek-beach.html",
+				
+				"content_html": "<p>Wilson Creek Beach, Klamath CA. The southern Oregon and far Northern California coasts are my favorite place in the US.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wilson Creek Beach, Klamath CA. The southern Oregon and far Northern California coasts are my favorite place in the US. \n\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/a684ce2e0d3c4d0f9de5266165834d3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-07-04T09:13:12-07:00",
+				"url": "https://micro.chrislott.org/2023/07/04/wilson-creek-beach.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/03/finished-reading-gallows.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781476745220\">Gallows View</a> by Peter Robinson. The first Inspector Banks novel. Not great, but I understand it gets better. The dated attitudes toward women and sexual assault doesn&rsquo;t help the thin plot and 2D characters. TBF, it&rsquo;s also hard to get beyond my TV image of Inspector Banks! 📚</p>\n",
+				"content_text": "Finished reading: [Gallows View](https://micro.blog/books/9781476745220) by Peter Robinson. The first Inspector Banks novel. Not great, but I understand it gets better. The dated attitudes toward women and sexual assault doesn't help the thin plot and 2D characters. TBF, it's also hard to get beyond my TV image of Inspector Banks! 📚\n",
+				"date_published": "2023-07-03T11:13:40-07:00",
+				"url": "https://micro.chrislott.org/2023/07/03/finished-reading-gallows.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/03/another-general-solution.html",
+				
+				"content_html": "<p>Another general solution for email subs, regardless of what is used to consume the resulting RSS: <a href=\"https://kill-the-newsletter.com/\">Kill the newsletter</a>. It&rsquo;s been solid for me!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another general solution for email subs, regardless of what is used to consume the resulting RSS: [Kill the newsletter](https://kill-the-newsletter.com/). It's been solid for me!\r\n\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Will Wade\" data-avatar=\"https://micro.blog/willwade/avatar.jpg\" cite=\"https://willwa.de/2023/07/03/feedbin-where-have.html\"><p><a href=\"https://feedbin.com/\">Feedbin</a>. Where have you been all my life? The answer to the demise of Google reader, twitter and now reddit. I need RSS.. but not everyone supports it. Feedbin takes your email subscriptions and turns them into one readable bucket. Fab.</p>\r\n<footer>Will Wade <cite><a href=\"https://willwa.de/2023/07/03/feedbin-where-have.html\" class=\"u-in-reply-to\">https://willwa.de/2023/07/03/feedbin-where-have.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-07-03T11:08:46-07:00",
+				"url": "https://micro.chrislott.org/2023/07/03/another-general-solution.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/02/this-is-more.html",
+				
+				"content_html": "<p>this is more or less my hope too. More intentional communities as they used to be, but energized by selective use of 2.0 technologies.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "this is more or less my hope too. More intentional communities as they used to be, but energized by selective use of 2.0 technologies.\r\n\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"T.P.\" data-avatar=\"https://micro.blog/tp/avatar.jpg\" cite=\"https://micro.blog/tp/20448817\"><p><a href=\"https://micro.blog/benwerd\">[@benwerd](https://micro.blog/benwerd)</a> Had always hoped for a Web 1.0 renaissance with maybe a smidgen of Web 2.0 mixed in for good measure.</p>\r\n\r\n\r\n<p class=\"post_archived_links\">Read: <a href=\"https://micro.blog/bookmarks/1760076\">micro.blog</a> </p><footer>T.P. <cite><a href=\"https://micro.blog/tp/20448817\" class=\"u-in-reply-to\">https://micro.blog/tp/20448817</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-07-02T16:32:49-07:00",
+				"url": "https://micro.chrislott.org/2023/07/02/this-is-more.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/02/happy-hot-pups.html",
+				
+				"content_html": "<p>Happy, hot pups. Willow Bea Arthur and Ruthie Belle Ginsberg 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Happy, hot pups. Willow Bea Arthur and Ruthie Belle Ginsberg 🐶\n\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/aa110637dec3448a806e37a0e2c3400d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/113204/2023/96ab7e58357b4950ae291b433646b1cb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-02T13:19:01-07:00",
+				"url": "https://micro.chrislott.org/2023/07/02/happy-hot-pups.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/02/apple-music-classical.html",
+				
+				"content_html": "<p>Apple Music Classical is a sweet app. I wish there were something similar for jazz. I miss my meticulous database of thousands of CDs tracking songs, songwriters, band members, etc., in a way that allowed for more exploration (most of it hard or impossible with streaming). 🎵</p>\n",
+				"content_text": "Apple Music Classical is a sweet app. I wish there were something similar for jazz. I miss my meticulous database of thousands of CDs tracking songs, songwriters, band members, etc., in a way that allowed for more exploration (most of it hard or impossible with streaming). 🎵\n",
+				"date_published": "2023-07-02T10:44:00-07:00",
+				"url": "https://micro.chrislott.org/2023/07/02/apple-music-classical.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/01/sometimes-its-the.html",
+				
+				"content_html": "<p>Sometimes it’s the little gestures…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sometimes it’s the little gestures…\n\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/70474e4001be47948ec8912d55f75118.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-01T19:18:31-07:00",
+				"url": "https://micro.chrislott.org/2023/07/01/sometimes-its-the.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/01/cool-link-nativlang.html",
+				"title": "🔗 Cool link: NativLang",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"linklog-url\"><a href=\"https://www.youtube.com/@NativLang\">https://www.youtube.com/@NativLang</a></p><p class=\"linklog-description\">\"This is where I share animated stories as I learn from & about people living on a planet full of languages and cultures.\"</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
+				"date_published": "2023-07-01T18:13:46-07:00",
+				"url": "https://micro.chrislott.org/2023/07/01/cool-link-nativlang.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/01/interesting-pop-pantheon.html",
+				
+				"content_html": "<p>Interesting <a href=\"https://poppantheon.transistor.fm/episodes/lana-del-rey-with-kathy-iandoli\">Pop Pantheon episode on Lana Del Rey and the LDR project with guest Kathy Landoli</a> (though the host suffers a bit from my aforementioned lecture-itis). 🎵🎙️</p>\n",
+				"content_text": "Interesting [Pop Pantheon episode on Lana Del Rey and the LDR project with guest Kathy Landoli](https://poppantheon.transistor.fm/episodes/lana-del-rey-with-kathy-iandoli) (though the host suffers a bit from my aforementioned lecture-itis). 🎵🎙️\n",
+				"date_published": "2023-07-01T18:05:27-07:00",
+				"url": "https://micro.chrislott.org/2023/07/01/interesting-pop-pantheon.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/01/im-an-avid.html",
+				
+				"content_html": "<p>I&rsquo;m an avid podcast listener, but nothing is worse&mdash;not bad production, confused hosts, or irksome speech patterns&mdash;than those who invite a guest expert and then talk at them 75% or more of the time.</p>\n",
+				"content_text": "I'm an avid podcast listener, but nothing is worse---not bad production, confused hosts, or irksome speech patterns---than those who invite a guest expert and then talk at them 75% or more of the time. \n",
+				"date_published": "2023-07-01T11:48:33-07:00",
+				"url": "https://micro.chrislott.org/2023/07/01/im-an-avid.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/01/i-stan-lana.html",
+				
+				"content_html": "<p>I stan Lana Del Rey so hard. Exquisitely imperfect. No apologies. 🎵</p>\n",
+				"content_text": "I stan Lana Del Rey so hard. Exquisitely imperfect. No apologies. 🎵\n",
+				"date_published": "2023-07-01T10:18:30-07:00",
+				"url": "https://micro.chrislott.org/2023/07/01/i-stan-lana.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/01/the-artists-death.html",
+				
+				"content_html": "<p>The artist’s death is (or will be) the only thing that lets me “separate the art from the artist” in many cases.</p>\n",
+				"content_text": "The artist’s death is (or will be) the only thing that lets me “separate the art from the artist” in many cases.\n",
+				"date_published": "2023-07-01T07:04:27-07:00",
+				"url": "https://micro.chrislott.org/2023/07/01/the-artists-death.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/30/forwarddomainnet-is-a.html",
+				
+				"content_html": "<p><a href=\"https://forwarddomain.net/\">ForwardDomain.net</a> is a cool service that allows you to redirect domains, including paths and URL GET data using only DNS entries with your registrar. No need to keep a site/account just for this simple need.</p>\n",
+				"content_text": "[ForwardDomain.net](https://forwarddomain.net/) is a cool service that allows you to redirect domains, including paths and URL GET data using only DNS entries with your registrar. No need to keep a site/account just for this simple need.\n",
+				"date_published": "2023-06-30T12:24:45-07:00",
+				"url": "https://micro.chrislott.org/2023/06/30/forwarddomainnet-is-a.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/30/my-creative-output.html",
+				
+				"content_html": "<p>My creative output being so meager (when I haven&rsquo;t burned it, sometimes literally), it remains a boost to see something of mine shared or built on, such as <a href=\"https://www.craftyourcontent.com/blackout-poetry/\">part of one of my blackout poems/images</a>!</p>\n",
+				"content_text": "My creative output being so meager (when I haven't burned it, sometimes literally), it remains a boost to see something of mine shared or built on, such as [part of one of my blackout poems/images](https://www.craftyourcontent.com/blackout-poetry/)! \n",
+				"date_published": "2023-06-30T12:05:49-07:00",
+				"url": "https://micro.chrislott.org/2023/06/30/my-creative-output.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/30/i-cant-believe.html",
+				
+				"content_html": "<p>I can&rsquo;t believe we are stuck with this Supreme Court for decades. It really is a terribly bad joke. At this point, for mental health reasons, I&rsquo;d like to stick my head in the sand, but can&rsquo;t figure out how to, given my work and life and work circumstances.</p>\n",
+				"content_text": "I can't believe we are stuck with this Supreme Court for decades. It really is a terribly bad joke. At this point, for mental health reasons, I'd like to stick my head in the sand, but can't figure out how to, given my work and life and work circumstances.\n",
+				"date_published": "2023-06-30T11:37:54-07:00",
+				"url": "https://micro.chrislott.org/2023/06/30/i-cant-believe.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/30/apologies-if-there.html",
+				
+				"content_html": "<p>Apologies if there is any strange noise for my social.coop Mastodon followers. I am attempting to migrate to micro.blog as my miocro/social hub, including migrating my Mastodon account to the Mastodon compatible: <a href=\"https://micro.blog/chris@micro.chrislott.org\">@chris@micro.chrislott.org</a></p>\n",
+				"content_text": "Apologies if there is any strange noise for my social.coop Mastodon followers. I am attempting to migrate to micro.blog as my miocro/social hub, including migrating my Mastodon account to the Mastodon compatible: [@chris@micro.chrislott.org](https://micro.blog/chris@micro.chrislott.org)\n",
+				"date_published": "2023-06-30T09:56:28-07:00",
+				"url": "https://micro.chrislott.org/2023/06/30/apologies-if-there.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/29/the-current-chaotic.html",
+				
+				"content_html": "<p>The current chaotic poetic choir in my head, some since I was a teen: #Keats, #Hopkins, #Berryman, Stanford, Blake, Clifton, Szymborska, Larkin, Cummings, Tracy K. Smith, Kevin Young, Tranströmer. But that first trio, which is about to be made into a quartet with #Milton, most of all. #poetry</p>\n",
+				"content_text": "The current chaotic poetic choir in my head, some since I was a teen: #Keats, #Hopkins, #Berryman, Stanford, Blake, Clifton, Szymborska, Larkin, Cummings, Tracy K. Smith, Kevin Young, Tranströmer. But that first trio, which is about to be made into a quartet with #Milton, most of all. #poetry\n",
+				"date_published": "2023-06-29T19:14:58-07:00",
+				"url": "https://micro.chrislott.org/2023/06/29/the-current-chaotic.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/29/can-the-hellscape.html",
+				
+				"content_html": "<p>Can the hellscape that is contemporary web search ever change for the better given the incumbent advantages? Not to be one of those &ldquo;back in the day&rdquo; folks, but back in the day&hellip;</p>\n",
+				"content_text": "Can the hellscape that is contemporary web search ever change for the better given the incumbent advantages? Not to be one of those \"back in the day\" folks, but back in the day...\n",
+				"date_published": "2023-06-29T16:33:20-07:00",
+				"url": "https://micro.chrislott.org/2023/06/29/can-the-hellscape.html"
+			},
 			{
 				"id": "http://chrislott.micro.blog/2023/06/29/im-quitting-reddit.html",
 				
@@ -18,7 +210,7 @@
 				"id": "http://chrislott.micro.blog/2023/06/29/a-pilot-legance.html",
 				
 				"content_html": "<p>A Pilot Legance (not a typo) fountain pen I rediscovered in my obscene stash of pens. And a pro photo of the same make and model.  I believe these were impressions of the <a href=\"https://www.gouletpens.com/collections/pilot-custom-heritage-se-fountain-pens\">Pilot Custom Heritage SE</a>, but no longer made. Fantastic writer! ✒️</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "A Pilot Legance (not a typo) fountain pen I rediscovered in my obscene stash of pens. And a pro photo of the same make and model.  I believe these were impressions of the [Pilot Custom Heritage SE](https://www.gouletpens.com/collections/pilot-custom-heritage-se-fountain-pens), but no longer made. Fantastic writer! ✒️\n\n<img src=\"uploads/2023/img-0176.jpg\" width=\"600\" height=\"403\" alt=\"\">\n\n<img src=\"uploads/2023/img-0177.jpg\" width=\"600\" height=\"505\" alt=\"\">\n",
+				"content_text": "A Pilot Legance (not a typo) fountain pen I rediscovered in my obscene stash of pens. And a pro photo of the same make and model.  I believe these were impressions of the [Pilot Custom Heritage SE](https://www.gouletpens.com/collections/pilot-custom-heritage-se-fountain-pens), but no longer made. Fantastic writer! ✒️\n\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/img-0176.jpg\" width=\"600\" height=\"403\" alt=\"\">\n\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/img-0177.jpg\" width=\"600\" height=\"505\" alt=\"\">\n",
 				"date_published": "2023-06-29T08:37:53-07:00",
 				"url": "https://micro.chrislott.org/2023/06/29/a-pilot-legance.html"
 			},
@@ -47,14 +239,6 @@
 				"url": "https://micro.chrislott.org/2023/06/26/cool-link-the.html"
 			},
 			{
-				"id": "http://chrislott.micro.blog/2023/06/26/cool-link-crossfire.html",
-				"title": "🔗 Cool link: CrossFire crossword creator",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p class=\"linklog-url\"><a href=\"https://beekeeperlabs.com/crossfire/index.html\">https://beekeeperlabs.com/crossfire/index.html</a></p><p class=\"linklog-description\">Cross-platform crossword creator</p><p class=\"linklog-attrib\"><a href=\"https://pinboard.in/u:fncll/t:linklog/\">...more links on Pinboard→</a></p>\n",
-				"date_published": "2023-06-26T16:35:58-07:00",
-				"url": "https://micro.chrislott.org/2023/06/26/cool-link-crossfire.html"
-			},
-			{
 				"id": "http://chrislott.micro.blog/2023/06/26/cool-link-phil.html",
 				"title": "🔗 Cool link: Phil",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -69,6 +253,22 @@
 				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/5fDCyoIY7zPEV5jn8DaCDb\"><img class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b27345251c9ca2c4296acf0e8980\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/5fDCyoIY7zPEV5jn8DaCDb\">It's a Shame About Ray - Remastered</a></span><br><span class=\"spot-artist\">The Lemonheads</span><br>Found on <span class=\"spot-album\">It's a Shame About Ray (Expanded Edition)</span></p>\n",
 				"date_published": "2023-06-26T15:38:55-07:00",
 				"url": "https://micro.chrislott.org/2023/06/26/noted-track-its.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/noted-track-alaska.html",
+				"title": "Noted Track: Alaska by Pinegrove",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK\"><img decoding=\"async\" loading=\"lazy\" class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b2738bab7c3b9e12aaf0a4b3648a\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/6PsqixVNSE6N4WamoMFISK\">Alaska</a></span><br />\n<span class=\"spot-artist\">Pinegrove</span><br />\nFound on <span class=\"spot-album\">11:11</span></p>\n",
+				"date_published": "2023-06-26T15:18:37-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/noted-track-alaska.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/26/noted-track-problems.html",
+				"title": "Noted Track: Problems by Pinegrove",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/5IU7VALvsWfzC8W5rjLNT0\"><img decoding=\"async\" loading=\"lazy\" class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/5IU7VALvsWfzC8W5rjLNT0\">Problems</a></span><br /><span class=\"spot-artist\">Pinegrove</span><br />Found on <span class=\"spot-album\">Everything So Far</span></p>\n",
+				"date_published": "2023-06-26T15:18:35-07:00",
+				"url": "https://micro.chrislott.org/2023/06/26/noted-track-problems.html"
 			},
 			{
 				"id": "http://chrislott.micro.blog/2023/06/26/seeking-the-death.html",
@@ -87,12 +287,12 @@
 				"url": "https://micro.chrislott.org/2023/06/26/im-still-amazed.html"
 			},
 			{
-				"id": "http://chrislott.micro.blog/2023/06/25/githubtest.html",
-				
-				"content_html": "<p>GithubTest</p>\n",
-				"content_text": "GithubTest\n",
-				"date_published": "2023-06-25T17:42:35-07:00",
-				"url": "https://micro.chrislott.org/2023/06/25/githubtest.html"
+				"id": "http://chrislott.micro.blog/2023/06/25/164439.html",
+				"title": "L.E.A.D. 2.5 Word Processor",
+				"content_html": "<p>&lt;img src=&ldquo;uploads/2023/img-0143.jpeg&rdquo; width=&ldquo;600&rdquo; height=&ldquo;446&rdquo; alt=&ldquo;A wall art piece titled &ldquo;The L.E.A.D*. 2.5 Word Processor&rdquo;&gt;</p>\n<ul>\n<li>Light, Economical, and Dependable.</li>\n</ul>\n<p>displaying a yellow wooden pencil that boasts the same phrase.</p>\n<p>Featuring</p>\n<ul>\n<li>\n<p>Fine or large print (manual control)</p>\n</li>\n<li>\n<p>Letters, words, or phrases can be deleted with a flick of the wrist</p>\n</li>\n<li>\n<p>Polished wooden cabinet</p>\n</li>\n<li>\n<p>Unlimited memory capacity depending on the aptitude of the user</p>\n</li>\n</ul>\n<p>Note: model shown comes equipped with &ldquo;Cylindrical Malfunction Adjuster.&rdquo;</p>\n<p>Then there are four other models:</p>\n<p>One for those who mak no mistakes (a pencil sharpened on both ends)</p>\n<p>One for those who make only mistakes (a pencil with an eraser on both ends)</p>\n<p>One for those who do very little (a golf-pencil sized pencil)</p>\n<p>And one for those who do absolutely nothing (a pencil with no erase, unsharpened on both ends)&rdquo; class=&ldquo;wp-image-1732&rdquo; width=&ldquo;960&rdquo; height=&ldquo;714&rdquo;/&gt;<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt=\"A wall art piece titled \"The L.E.A.D*. 2.5 Word Processor\">\n\n* Light, Economical, and Dependable.\n\ndisplaying a yellow wooden pencil that boasts the same phrase.\n\nFeaturing\n\n- Fine or large print (manual control)\n\n- Letters, words, or phrases can be deleted with a flick of the wrist\n\n- Polished wooden cabinet\n\n- Unlimited memory capacity depending on the aptitude of the user\n\nNote: model shown comes equipped with \"Cylindrical Malfunction Adjuster.\"\n\nThen there are four other models:\n\nOne for those who mak no mistakes (a pencil sharpened on both ends)\n\nOne for those who make only mistakes (a pencil with an eraser on both ends)\n\nOne for those who do very little (a golf-pencil sized pencil)\n\nAnd one for those who do absolutely nothing (a pencil with no erase, unsharpened on both ends)\" class=\"wp-image-1732\" width=\"960\" height=\"714\"/></figure>\n\n\n\n<p>A flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case…and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, and I may have brought someone into the pencil fold.</p>\n\n\n\n<p>Apologies for the shadows. It’s hard to get a photo through the glass!</p>\n",
+				"date_published": "2023-06-25T16:44:39-07:00",
+				"url": "https://micro.chrislott.org/2023/06/25/164439.html"
 			},
 			{
 				"id": "http://chrislott.micro.blog/2023/06/25/lead-word-processor.html",
@@ -101,6 +301,30 @@
 				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt='A wall art piece displaying a yellow wooden pencil titled The L.E.A.D. 2.5 Word Processor \nLight, Economical, and Dependable. The piece goes on to note: Featuring. Fine or large print (manual control), Letters, words, or phrases can be deleted with a flick of the wrist, Polished wooden cabinet, Unlimited memory capacity depending on the aptitude of the user. Note: model shown comes equipped with \"Cylindrical Malfunction Adjuster.\" Then there are four other models: One for those who make no mistakes (a pencil sharpened on both ends). One for those who make only mistakes (a pencil with an eraser on both ends). One for those who do very little (a golf-pencil sized pencil). And one for those who do absolutely nothing (a pencil with no erase, unsharpened on both ends)'>\n\nA flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case...and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, *and* I may have brought someone into the pencil fold.\n\nApologies for the shadows. It's hard to get a photo through the glass!\n",
 				"date_published": "2023-06-25T16:14:03-07:00",
 				"url": "https://micro.chrislott.org/2023/06/25/lead-word-processor.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/25/noted-track-mice.html",
+				"title": "Noted Track: Mice by Billie Marten",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/1wcAKUbAyMRy0uSsFbyiCv\"><img decoding=\"async\" loading=\"lazy\" class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b27363b01b526ec3cfaa01e52045\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/1wcAKUbAyMRy0uSsFbyiCv\">Mice</a></span><br /><span class=\"spot-artist\">Billie Marten</span><br />Found on <span class=\"spot-album\">Feeding Seahorses by Hand</span></p>\n",
+				"date_published": "2023-06-25T07:48:18-07:00",
+				"url": "https://micro.chrislott.org/2023/06/25/noted-track-mice.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/23/chatgpt-is-me.html",
+				"title": "ChatGPT is Me",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>ChatGPT does more or less (mostly more) just what I did for a good bit of my university days, grad and undergrad.</p>\n",
+				"date_published": "2023-06-23T06:35:50-07:00",
+				"url": "https://micro.chrislott.org/2023/06/23/chatgpt-is-me.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/06/20/caroline-polachek-live.html",
+				"title": "Caroline Polachek (Live on KEXP)",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This performance is simply stunning. That voice!</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<div class=\"ast-oembed-container\" style=\"height: 100%;\"><iframe loading=\"lazy\" title=\"Caroline Polachek - Full Performance (Live on KEXP)\" width=\"1200\" height=\"675\" src=\"https://www.youtube.com/embed/7XYyDsl14E4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div>\n</div></figure>\n",
+				"date_published": "2023-06-20T17:43:41-07:00",
+				"url": "https://micro.chrislott.org/2023/06/20/caroline-polachek-live.html"
 			}
 	]
 }
