@@ -7,10 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://chrislott.micro.blog/2023/07/17/games-im-convinced.html",
+				
+				"content_html": "<p>Games I’m convinced no one actually likes but merely claim to in order to torture others: Clue and Monopoly. There are more, but this is the list.</p>\n",
+				"content_text": "Games I’m convinced no one actually likes but merely claim to in order to torture others: Clue and Monopoly. There are more, but this is the list.\n",
+				"date_published": "2023-07-17T07:09:37-07:00",
+				"url": "https://micro.chrislott.org/2023/07/17/games-im-convinced.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/15/six-was-a.html",
+				
+				"content_html": "<p>Six was a lot of fun. Short (no intermission needed), energetic, and funny. Highly recommend it!</p>\n",
+				"content_text": "Six was a lot of fun. Short (no intermission needed), energetic, and funny. Highly recommend it!\n",
+				"date_published": "2023-07-15T19:06:03-07:00",
+				"url": "https://micro.chrislott.org/2023/07/15/six-was-a.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/15/noted-punisher.html",
+				"title": "🎵 Noted: Punisher",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl\"><img class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl\">Punisher</a></span><br><span class=\"spot-artist\">Phoebe Bridgers</span><br>Found on <span class=\"spot-album\">Punisher</span></p>\n",
+				"date_published": "2023-07-15T07:10:30-07:00",
+				"url": "https://micro.chrislott.org/2023/07/15/noted-punisher.html",
+				"tags": ["photos","notedtracks"]
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/15/noted-need.html",
+				"title": "🎵 Noted: Need 2",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p class=\"spot-image\"><a href=\"https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU\"><img class=\"spot-cover\" alt=\"album-cover\" src=\"https://i.scdn.co/image/ab67616d0000b2734e48dddf8b7fa7f224015588\" width=\"300\" height=\"300\"></a></p>\n<p class=\"spot-info\"><span class=\"spot-trackname\"><a href=\"https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU\">Need 2</a></span><br><span class=\"spot-artist\">Pinegrove</span><br>Found on <span class=\"spot-album\">Everything So Far</span></p>\n",
+				"date_published": "2023-07-15T06:55:51-07:00",
+				"url": "https://micro.chrislott.org/2023/07/15/noted-need.html",
+				"tags": ["photos","notedtracks"]
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/13/my-once-every.html",
+				
+				"content_html": "<p>My once every three years or so selfie. I’ve gotten so old!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My once every three years or so selfie. I’ve gotten so old!\n\n<img src=\"uploads/2023/fa9a0131c967461a9f8e8d5620c12b0a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-13T09:01:49-07:00",
+				"url": "https://micro.chrislott.org/2023/07/13/my-once-every.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/11/til-years-before.html",
+				
+				"content_html": "<p>TIL:</p>\n<blockquote>\n<p>14 years before the Titanic sank, a fictional story was written by a man named Morgan Robertson. In the story, the ship was described as the largest ever built at the time (same as the Titanic), it was also woefully short on lifeboats, and it also struck an iceberg and sank. The ship in the story was also a triple screw propeller liner, and it was named the Titan.</p>\n</blockquote>\n",
+				"content_text": "TIL:\r\n\r\n> 14 years before the Titanic sank, a fictional story was written by a man named Morgan Robertson. In the story, the ship was described as the largest ever built at the time (same as the Titanic), it was also woefully short on lifeboats, and it also struck an iceberg and sank. The ship in the story was also a triple screw propeller liner, and it was named the Titan.\n",
+				"date_published": "2023-07-11T18:52:24-07:00",
+				"url": "https://micro.chrislott.org/2023/07/11/til-years-before.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/11/reading-the-dictionary.html",
+				
+				"content_html": "<p>Reading <a href=\"https://micro.blog/books/9781984820747\">The Dictionary of Lost Words</a> by Pip Williams In between bouts with <em>Paradise Lost</em>. Excellent read so far! Love the depiction of the OED&rsquo;s &ldquo;Scriptorium&rdquo; and Dr. Murray, who I already regarded as Gandalf-like. 📚</p>\n",
+				"content_text": "Reading [The Dictionary of Lost Words](https://micro.blog/books/9781984820747) by Pip Williams In between bouts with _Paradise Lost_. Excellent read so far! Love the depiction of the OED's \"Scriptorium\" and Dr. Murray, who I already regarded as Gandalf-like. 📚\n",
+				"date_published": "2023-07-11T18:49:11-07:00",
+				"url": "https://micro.chrislott.org/2023/07/11/reading-the-dictionary.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/11/the-casual-barbarism.html",
+				
+				"content_html": "<p>The casual barbarism demonstrated by so many Americans tacitly and overtly cheering on prison rape and abuse is appalling. No one, no matter how heinous their crime, should be mistreated that way.</p>\n",
+				"content_text": "The casual barbarism demonstrated by so many Americans tacitly and overtly cheering on prison rape and abuse is appalling. No one, no matter how heinous their crime, should be mistreated that way.\n",
+				"date_published": "2023-07-11T09:53:08-07:00",
+				"url": "https://micro.chrislott.org/2023/07/11/the-casual-barbarism.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/07/11/its-astounding-how.html",
+				
+				"content_html": "<p>It&rsquo;s astounding how much more I rely on&mdash;or at least desire&mdash;routine as I get older. Sometimes down to tiny details. This could not be more different than (not all that much younger) me.</p>\n",
+				"content_text": "It's astounding how much more I rely on---or at least desire---routine as I get older. Sometimes down to tiny details. This could not be more different than (not all that much younger) me.\n",
+				"date_published": "2023-07-11T08:17:42-07:00",
+				"url": "https://micro.chrislott.org/2023/07/11/its-astounding-how.html"
+			},
+			{
 				"id": "http://chrislott.micro.blog/2023/07/10/either-spotify-got.html",
 				
 				"content_html": "<p>Either Spotify got caught in a loop or something weird happened with the connection to last.fm. I mean, I love Lana, but even I don&rsquo;t listen to a single song 192 times in one day (and 41 more times the next day, apparently)!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Either Spotify got caught in a loop or something weird happened with the connection to last.fm. I mean, I love Lana, but even I don't listen to a single song 192 times in one day (and 41 more times the next day, apparently)!\n\n<img src=\"uploads/2023/93a38df219.png\" width=\"600\" height=\"287\" alt=\"\">\n",
+				"content_text": "Either Spotify got caught in a loop or something weird happened with the connection to last.fm. I mean, I love Lana, but even I don't listen to a single song 192 times in one day (and 41 more times the next day, apparently)!\n\n<img src=\"https://cdn.uploads.micro.blog/113204/2023/93a38df219.png\" width=\"600\" height=\"287\" alt=\"\">\n",
 				"date_published": "2023-07-10T14:32:01-07:00",
 				"url": "https://micro.chrislott.org/2023/07/10/either-spotify-got.html",
 				"tags": ["photos"]
@@ -409,7 +485,7 @@
 				"id": "http://chrislott.micro.blog/2023/06/25/164439.html",
 				"title": "L.E.A.D. 2.5 Word Processor",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt=\"The L.E.A.D. Word Processor, aka a pencil\">\n\n<p>A flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case…and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, and I may have brought someone into the pencil fold.</p>\n\n<p>Apologies for the shadows. It’s hard to get a photo through the glass!</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/113204/2023/img-0143.jpeg\" width=\"600\" height=\"446\" alt=\"The L.E.A.D. Word Processor, aka a pencil\">\n\n<p>A flea market find. When I told the vendor I kinda-sorta collect pencils, he was mystified. I showed him the pencils I happened to have in my case…and ended up trading him for a motley assortment of eight pencils (a couple of Blackwings, a couple of Tombows, and four Musgraves) and a well-used Sonic Rachetta sharpener. A great deal for me, and I may have brought someone into the pencil fold.</p>\n\n<p>Apologies for the shadows. It’s hard to get a photo through the glass!</p>\n",
 				"date_published": "2023-06-25T16:44:39-07:00",
 				"url": "https://micro.chrislott.org/2023/06/25/164439.html",
 				"tags": ["photos"]
