@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://chrislott.micro.blog/2023/08/07/i-watched-most.html",
+				
+				"content_html": "<p>I watched most of the <a href=\"https://www.aixeducation.com/\">AI x Education | Conference</a>&mdash;some live, some recorded&mdash;and what an underwhelming experience. I&rsquo;m literally not sure a single new fact or idea was shared.</p>\n",
+				"content_text": "I watched most of the [AI x Education | Conference](https://www.aixeducation.com/)---some live, some recorded---and what an underwhelming experience. I'm literally not sure a single new fact or idea was shared.\n",
+				"date_published": "2023-08-07T09:57:33-07:00",
+				"url": "https://micro.chrislott.org/2023/08/07/i-watched-most.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/08/07/you-can-trace.html",
+				
+				"content_html": "<p>You can trace my adjustment to my new iPhone by the slowly diminishing number of accidental screenshots in my photo-stream.</p>\n",
+				"content_text": "You can trace my adjustment to my new iPhone by the slowly diminishing number of accidental screenshots in my photo-stream.\n",
+				"date_published": "2023-08-07T08:24:43-07:00",
+				"url": "https://micro.chrislott.org/2023/08/07/you-can-trace.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/08/05/no-doubt-gwen.html",
+				
+				"content_html": "<p>No Doubt &gt; Gwen Stefani solo by a great distance. I have spoken.</p>\n",
+				"content_text": "No Doubt > Gwen Stefani solo by a great distance. I have spoken.\n",
+				"date_published": "2023-08-05T09:06:44-07:00",
+				"url": "https://micro.chrislott.org/2023/08/05/no-doubt-gwen.html"
+			},
+			{
+				"id": "http://chrislott.micro.blog/2023/08/02/thanks-pratik-for.html",
+				
+				"content_html": "<p>Thanks, <a href=\"https://micro.blog/pratik\">@pratik</a> for your thoughts on the Arc browser. I&rsquo;ve been giving it another go and having a better experience. I needed to spend more time learning its ways (and maybe get over the hyperbolic marketing).</p>\n",
+				"content_text": "Thanks, [@pratik](https://micro.blog/pratik) for your thoughts on the Arc browser. I've been giving it another go and having a better experience. I needed to spend more time learning its ways (and maybe get over the hyperbolic marketing).\n",
+				"date_published": "2023-08-02T08:58:00-07:00",
+				"url": "https://micro.chrislott.org/2023/08/02/thanks-pratik-for.html"
+			},
+			{
 				"id": "http://chrislott.micro.blog/2023/08/02/mariana-allesandri-says.html",
 				
 				"content_html": "<p>Mariana Allesandri says Plato never explains who the &ldquo;puppeteers&rdquo; are in the allegory of the cave. Really!? The entire metaphor hinges on the puppet handlers as our sense perceptions. Missing such a basic point piques my skepticism about her later arguments re: dark and light.</p>\n",
